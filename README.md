@@ -19,11 +19,11 @@ Google Colab and Skills Network Cloud IDE (IBM)
 
 ## ⚙ Installation & usage Instructions
 1. Install berbagai library pandas, numpy, seaborn, matplotlib, scikit-learn
-```!pip install pandas==1.3.4 numpy==1.21.4 seaborn==0.9.0 matplotlib==3.5.0 scikit-learn==0.20.1
+```!pip install pandas==1.3.4 numpy==1.21.4 seaborn==0.9.0 matplotlib==3.5.0 scikit-learn==0.20.1```
 2. Install juga tqdm untuk melihat progress training dan skillsnetwork
-```!pip install tqdm skillsnetwork
+```!pip install tqdm skillsnetwork```
 3. Terakhir, upgrade Tensorflow
-```!pip3 install  --upgrade tensorflow
+```!pip3 install  --upgrade tensorflow```
 4. Restart kernell
 5. Jalankan semua kode
 
